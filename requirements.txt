@@ -1,0 +1,10 @@
+altgraph==0.16.1
+chardet==3.0.4
+cx-Freeze==5.1.1
+dataclasses==0.6
+future==0.16.0
+macholib==1.10
+pefile==2018.8.8
+pypiwin32==223
+pywin32==223
+xlrd==1.1.0
